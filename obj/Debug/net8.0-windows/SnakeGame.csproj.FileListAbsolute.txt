@@ -1,0 +1,15 @@
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\SnakeGame.AssemblyInfoInputs.cache
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\SnakeGame.AssemblyInfo.cs
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\SnakeGame.csproj.CoreCompileInputs.cache
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\SnakeGame.sourcelink.json
+C:\dev\Lias-Schule\bin\Debug\net8.0-windows\SnakeGame.exe
+C:\dev\Lias-Schule\bin\Debug\net8.0-windows\SnakeGame.deps.json
+C:\dev\Lias-Schule\bin\Debug\net8.0-windows\SnakeGame.runtimeconfig.json
+C:\dev\Lias-Schule\bin\Debug\net8.0-windows\SnakeGame.dll
+C:\dev\Lias-Schule\bin\Debug\net8.0-windows\SnakeGame.pdb
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\SnakeGame.dll
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\refint\SnakeGame.dll
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\SnakeGame.pdb
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\SnakeGame.genruntimeconfig.cache
+C:\dev\Lias-Schule\obj\Debug\net8.0-windows\ref\SnakeGame.dll
